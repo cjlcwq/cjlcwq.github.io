@@ -1,3 +1,7 @@
-#index.jsp
-#权限控制
-#12321312
+<html>
+  
+  <script>
+    alert('aaa');
+    </script>
+  
+</html>
